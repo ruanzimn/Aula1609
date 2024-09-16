@@ -1,0 +1,18 @@
+# Ignorar dependências do Node.js
+node_modules/
+
+# Ignorar arquivos de lock do npm
+package-lock.json
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários do editor (ex. VS Code)
+.vscode/
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
